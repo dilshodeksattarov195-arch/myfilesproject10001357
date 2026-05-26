@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpync",
+        "uuid": 8123002,
+        "checksum": "z0jlt8"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
